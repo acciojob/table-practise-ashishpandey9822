@@ -1,6 +1,6 @@
 table,tr,th,td{
 	border:1px solid black
-}
-table{
-	background color:yellow
+	}
+th,td{
+	background-color:yellow
 }
